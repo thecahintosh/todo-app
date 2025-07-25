@@ -49,7 +49,7 @@ class _HomePageState extends State<HomePage> {
               Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: Text(
-                  "Hello\nMy Name is Shivansh Singh",
+                  "Hello\nkjsndkjdnkjnads;jad",
                   style: TextStyle(
                       fontSize: 30,
                       fontWeight: FontWeight.w300,
